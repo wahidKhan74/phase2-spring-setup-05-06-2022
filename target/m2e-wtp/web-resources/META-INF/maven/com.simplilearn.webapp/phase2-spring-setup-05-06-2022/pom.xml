@@ -36,7 +36,6 @@
 			<version>${spring.version}</version>
 		</dependency>
 
-
 	</dependencies>
 	<build>
 		<finalName>phase2-spring-setup-05-06-2022</finalName>
